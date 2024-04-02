@@ -16,6 +16,7 @@ dependencies:
   go_router: ^13.2.1
   firebase_messaging: ^14.7.21
   firebase_core: ^2.27.2
+  flutter_local_notifications: ^17.0.0
 
 dev_dependencies:
   flutter_test:
